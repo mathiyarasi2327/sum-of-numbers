@@ -5,3 +5,6 @@ public class SumTwoNumbers {
         System.out.println("Sum: " + sum);
     }
 }
+
+output:
+Sum: 30
